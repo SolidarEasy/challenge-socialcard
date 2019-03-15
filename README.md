@@ -4,7 +4,7 @@
 
 1. Utilize o create-react-app (https://github.com/facebook/create-react-app)
 1. Utilize a biblioteca material-ui (https://material-ui.com/getting-started/installation/)
-1. Monte um cartão de social "semelhante" à imagem ![SocialCard]('/data/socialcard.png').
+1. Monte um cartão de social "semelhante" à imagem ![SocialCard](/data/socialcard.png).
 
 
 ## Avaliação
